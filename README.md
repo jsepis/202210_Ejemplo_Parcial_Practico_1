@@ -1,4 +1,4 @@
-# Ejemplo Parcial Práctico 1
+# Ejemplo Parcial Práctico 1     Juan Sebastian Pinzon Sampedro
 
 ## Instrucciones
 
